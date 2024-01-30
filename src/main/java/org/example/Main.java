@@ -17,6 +17,7 @@ public class Main {
                         - Scanner
                         - loop
                             - devide - input
+                            - veryfication
                             - output - msg and value
 
 
